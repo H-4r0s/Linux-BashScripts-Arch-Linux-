@@ -3,7 +3,7 @@
 function _menu()
 {
   echo 
-  echo "Selecciona una opcion:"
+  echo "Select an option:"
   echo
   echo "1) Convert JPG to WEBP"
   echo "2) Convert JPEG to WEBP"
