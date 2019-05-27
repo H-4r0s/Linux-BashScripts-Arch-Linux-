@@ -5,12 +5,12 @@ function _menu()
   echo 
   echo "Selecciona una opcion:"
   echo
-  echo "1) Convertit JPG a WEBP"
-  echo "2) Convertit JPEG a WEBP"
-  echo "3) Convertit PNG a WEBP"
-  echo "4) Convertit JPG a WEBP y borrar archivos JPG"
-  echo "5) Convertit JPEG a WEBP y borrar archivos JPEG"
-  echo "6) Convertit PNG a WEBP y borrar archivos PNG"
+  echo "1) Convertir JPG a WEBP"
+  echo "2) Convertir JPEG a WEBP"
+  echo "3) Convertir PNG a WEBP"
+  echo "4) Convertir JPG a WEBP y borrar archivos JPG"
+  echo "5) Convertir JPEG a WEBP y borrar archivos JPEG"
+  echo "6) Convertir PNG a WEBP y borrar archivos PNG"
   echo "7) Salir"
 }
 opc=0
